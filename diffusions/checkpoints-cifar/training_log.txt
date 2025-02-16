@@ -1,0 +1,65 @@
+Training Log
+==================================================
+Epoch 1/60 Loss: 0.0746 | Time: 40.10 sec
+Epoch 2/60 Loss: 0.0426 | Time: 39.15 sec
+Epoch 3/60 Loss: 0.0383 | Time: 39.37 sec
+Epoch 4/60 Loss: 0.0373 | Time: 42.01 sec
+Epoch 5/60 Loss: 0.0360 | Time: 38.69 sec
+Epoch 6/60 Loss: 0.0348 | Time: 38.54 sec
+Epoch 7/60 Loss: 0.0343 | Time: 38.42 sec
+Epoch 8/60 Loss: 0.0340 | Time: 38.17 sec
+Epoch 9/60 Loss: 0.0346 | Time: 37.73 sec
+Epoch 10/60 Loss: 0.0333 | Time: 38.25 sec
+Epoch 11/60 Loss: 0.0337 | Time: 37.97 sec
+Epoch 12/60 Loss: 0.0329 | Time: 38.14 sec
+Epoch 13/60 Loss: 0.0336 | Time: 39.15 sec
+Epoch 14/60 Loss: 0.0325 | Time: 38.20 sec
+Epoch 15/60 Loss: 0.0328 | Time: 40.76 sec
+Epoch 16/60 Loss: 0.0328 | Time: 40.12 sec
+Epoch 17/60 Loss: 0.0326 | Time: 37.80 sec
+Epoch 18/60 Loss: 0.0321 | Time: 40.25 sec
+Epoch 19/60 Loss: 0.0324 | Time: 38.57 sec
+Epoch 20/60 Loss: 0.0321 | Time: 38.80 sec
+Model saved to checkpoints-cifar/diffusion_cifar_epoch_20.pth
+Epoch 21/60 Loss: 0.0321 | Time: 38.79 sec
+Epoch 22/60 Loss: 0.0322 | Time: 39.53 sec
+Epoch 23/60 Loss: 0.0317 | Time: 37.92 sec
+Epoch 24/60 Loss: 0.0312 | Time: 38.03 sec
+Epoch 25/60 Loss: 0.0321 | Time: 38.31 sec
+Epoch 26/60 Loss: 0.0319 | Time: 37.44 sec
+Epoch 27/60 Loss: 0.0319 | Time: 40.90 sec
+Epoch 28/60 Loss: 0.0316 | Time: 40.24 sec
+Epoch 29/60 Loss: 0.0311 | Time: 37.57 sec
+Epoch 30/60 Loss: 0.0314 | Time: 38.80 sec
+Epoch 31/60 Loss: 0.0319 | Time: 37.81 sec
+Epoch 32/60 Loss: 0.0315 | Time: 37.88 sec
+Epoch 33/60 Loss: 0.0319 | Time: 38.28 sec
+Epoch 34/60 Loss: 0.0307 | Time: 37.76 sec
+Epoch 35/60 Loss: 0.0311 | Time: 39.15 sec
+Epoch 36/60 Loss: 0.0310 | Time: 38.03 sec
+Epoch 37/60 Loss: 0.0316 | Time: 38.38 sec
+Epoch 38/60 Loss: 0.0313 | Time: 38.36 sec
+Epoch 39/60 Loss: 0.0311 | Time: 37.82 sec
+Epoch 40/60 Loss: 0.0312 | Time: 37.30 sec
+Model saved to checkpoints-cifar/diffusion_cifar_epoch_40.pth
+Epoch 41/60 Loss: 0.0304 | Time: 37.95 sec
+Epoch 42/60 Loss: 0.0314 | Time: 39.39 sec
+Epoch 43/60 Loss: 0.0307 | Time: 38.45 sec
+Epoch 44/60 Loss: 0.0310 | Time: 39.04 sec
+Epoch 45/60 Loss: 0.0307 | Time: 41.53 sec
+Epoch 46/60 Loss: 0.0309 | Time: 37.73 sec
+Epoch 47/60 Loss: 0.0316 | Time: 38.22 sec
+Epoch 48/60 Loss: 0.0311 | Time: 37.92 sec
+Epoch 49/60 Loss: 0.0311 | Time: 38.21 sec
+Epoch 50/60 Loss: 0.0311 | Time: 39.59 sec
+Epoch 51/60 Loss: 0.0309 | Time: 39.45 sec
+Epoch 52/60 Loss: 0.0305 | Time: 39.09 sec
+Epoch 53/60 Loss: 0.0307 | Time: 37.79 sec
+Epoch 54/60 Loss: 0.0311 | Time: 37.81 sec
+Epoch 55/60 Loss: 0.0307 | Time: 38.13 sec
+Epoch 56/60 Loss: 0.0307 | Time: 37.74 sec
+Epoch 57/60 Loss: 0.0305 | Time: 37.95 sec
+Epoch 58/60 Loss: 0.0306 | Time: 37.85 sec
+Epoch 59/60 Loss: 0.0309 | Time: 38.13 sec
+Epoch 60/60 Loss: 0.0308 | Time: 38.93 sec
+Model saved to checkpoints-cifar/diffusion_mnist_epoch_60.pth
